@@ -1,0 +1,19 @@
+/* ColorPalette.css */
+
+.color-palette {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+  }
+  
+  .color {
+    /* position: absolute; */
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
